@@ -1,7 +1,7 @@
-
+package day34;
 public class Day34 {
     public static void main(String[] args) {
-    int[] arrayAngkaGenap = new int [10];
+          int[] arrayAngkaGenap = new int [10];
         for (int i = 0, angka = 2; i < 10; angka += 2,i++) {
             arrayAngkaGenap [i] = angka;
             
@@ -15,8 +15,7 @@ public class Day34 {
         for (int angka : arrayAngkaGenap){
             System.out.print(angka + " ");
         }
-        System.out.println("\nJumlah angka genap" + jumlah);
+        System.out.println("\nJumlah angka genap = " + jumlah);
     }
-   
     
 }
