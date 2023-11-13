@@ -1,4 +1,4 @@
-package day34;
+
 public class Day34 {
     public static void main(String[] args) {
     int[] arrayAngkaGenap = new int [10];
