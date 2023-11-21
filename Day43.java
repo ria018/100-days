@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Day43 {
     public static void main(String[] args) {
-          Scanner sc = new Scanner(System.in);
+         Scanner sc = new Scanner(System.in);
 
         System.out.println("Masukkan nomor bulan (1-12): ");
         int nomorBulan = sc.nextInt();
