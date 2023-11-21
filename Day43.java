@@ -16,7 +16,7 @@ public class Day43 {
             case 1:
             case 2:
                 musim = "Musim Dingin";
-                break;
+               
             case 3:
             case 4:
             case 5:
