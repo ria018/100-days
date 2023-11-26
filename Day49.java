@@ -1,8 +1,8 @@
-package day29;
+package day49;
 
 import java.util.Scanner;
 
-public class Day29 {
+public class Day49 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
