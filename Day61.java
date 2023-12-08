@@ -1,8 +1,8 @@
-package dya61;
+package day61;
 
 import java.util.Scanner;
 
-public class Dya61 {
+public class Day61 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
